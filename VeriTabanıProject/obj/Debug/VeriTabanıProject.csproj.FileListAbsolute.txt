@@ -1,0 +1,10 @@
+C:\Users\semih\source\repos\VeriTabanıProject\VeriTabanıProject\bin\Debug\VeriTabanıProject.exe.config
+C:\Users\semih\source\repos\VeriTabanıProject\VeriTabanıProject\bin\Debug\VeriTabanıProject.exe
+C:\Users\semih\source\repos\VeriTabanıProject\VeriTabanıProject\bin\Debug\VeriTabanıProject.pdb
+C:\Users\semih\source\repos\VeriTabanıProject\VeriTabanıProject\obj\Debug\VeriTabanıProject.csprojAssemblyReference.cache
+C:\Users\semih\source\repos\VeriTabanıProject\VeriTabanıProject\obj\Debug\VeriTabanıProject.Form1.resources
+C:\Users\semih\source\repos\VeriTabanıProject\VeriTabanıProject\obj\Debug\VeriTabanıProject.Properties.Resources.resources
+C:\Users\semih\source\repos\VeriTabanıProject\VeriTabanıProject\obj\Debug\VeriTabanıProject.csproj.GenerateResource.cache
+C:\Users\semih\source\repos\VeriTabanıProject\VeriTabanıProject\obj\Debug\VeriTabanıProject.csproj.CoreCompileInputs.cache
+C:\Users\semih\source\repos\VeriTabanıProject\VeriTabanıProject\obj\Debug\VeriTabanıProject.exe
+C:\Users\semih\source\repos\VeriTabanıProject\VeriTabanıProject\obj\Debug\VeriTabanıProject.pdb
